@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="test_app_primary">#FFFF0000</color>
+    <color name="test_app_primary_dark">#ff800000</color>
+    <color name="test_app_accent">@color/test_app_primary</color>
+    <color name="black">#FF333333</color>
+    <color name="card_color">#FFEAEAEA</color>
+
+</resources>
